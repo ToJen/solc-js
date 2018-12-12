@@ -1,5 +1,5 @@
 {
-  "name": "solc",
+  "name": "aion-solc",
   "version": "0.4.15",
   "description": "Solidity compiler",
   "main": "index.js",
