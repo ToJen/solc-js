@@ -24,7 +24,7 @@
     "abi.js",
     "index.js",
     "solcjs",
-    "soljson.js",
+    "soljson.aion.js",
     "translate.js",
     "wrapper.js"
   ],
